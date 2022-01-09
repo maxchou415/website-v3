@@ -2,7 +2,9 @@
 
 ## To be optimized
 ```
-1. Zlib Compresion
+1. Zlib compression
+2. Webp compression
+3. Sitemap
 ```
 
 ## Project setup
