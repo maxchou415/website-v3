@@ -1,4 +1,9 @@
-# personal-website-2021
+# website-v3
+
+## To be optimized
+```
+1. Zlib Compresion
+```
 
 ## Project setup
 ```
