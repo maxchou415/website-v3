@@ -1,0 +1,13 @@
+{
+  "COMMON": {
+    "NAME": "周奕勳"
+  },
+  "HERO": {
+    "SMALL_INTRO": "你好世界",
+    "HEY": "嗨！",
+    "INTRO": "我是一名軟體工程師。",
+    "LONG_INTRO": "擁有 5 年軟體開發經驗，具團隊領導經驗，以及多次創業經歷。",
+    "FULL_RESUME": "完整履歷表",
+    "GET_IN_TOUCH": "與我聯繫"
+  }
+}

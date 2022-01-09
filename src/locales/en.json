@@ -1,0 +1,13 @@
+{
+  "COMMON": {
+    "NAME": "Max Yi-Hsun Chou"
+  },
+  "HERO": {
+    "SMALL_INTRO": "Hello World",
+    "HEY": "Hola!",
+    "INTRO": "I am a Software Engineer.",
+    "LONG_INTRO": "5 years experience in software development. Team leading experience, and multiple startup experiences.",
+    "FULL_RESUME": "Full Resume",
+    "GET_IN_TOUCH": "Get in touch"
+  }
+}
